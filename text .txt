@@ -1,0 +1,19 @@
+usermodel
+full name - string
+emial - string 
+password - string 
+cart - arrry 
+isadmin - boolean
+orders - array 
+contact - number
+picture - db
+
+
+product 
+image 
+name
+price
+discount 
+bgcolour
+panelcolour
+textcolour
